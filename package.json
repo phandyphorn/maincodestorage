@@ -1,0 +1,16 @@
+{
+  "name": "maincodestorage",
+  "version": "1.0.0",
+  "description": "This for me and for someone who need only function usages and hook usage only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^4.33.0",
+    "axios": "^1.7.2",
+    "file-saver": "^2.0.5"
+  }
+}
